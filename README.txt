@@ -8,3 +8,7 @@ The original code is written in C by : Marc-Antoine Drouin (drouim@iro.umontreal
 
 It has been converted to Python based on numpy and OpenCV by: Armin Zare Zadeh (ali.a.zarezadeh@gmail.com)
 
+Thanks
+------
+This work was supported by the buysycle company.
+http://buysycle.com/
